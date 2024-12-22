@@ -29,7 +29,7 @@ Ikuti langkah-langkah berikut untuk menginstal bot:
 
 ## Konfigurasi:
 
-Ubah nama file `config.example.js` menjadi `config.js` dan sesuaikan isinya.
+Tambahkan file `config.js` di root projek. Lalu salin isi yang ada di file `config.example.js` dan tempel ke file `config.js` dan silahkan sesuaikan isinya.
 
 ## Jalankan Projek
 
